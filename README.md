@@ -10,9 +10,11 @@
 
 > Directory Structure and Contents
 
-* 🔖 [BOOKMARKS](./BOOKMARKS.md)
-* 📚 [LIBRARIES](./lib/README.md)
+* 🔖 [_BOOKMARKS_](./BOOKMARKS.md)
+
+* 📚 [__LIBRARIES__](./lib/README.md)
   * [Node.js](./lib/NODE.md)
-* 🗃  [TEMPLATES](./tmp/README.md)
+
+* 🗃  [__TEMPLATES__](./tmp/README.md)
   * [JavaScript](./tmp/JAVASCRIPT.md)
   * [Solidity](./tmp/SOLIDITY.md)
