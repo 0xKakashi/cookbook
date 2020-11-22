@@ -17,6 +17,7 @@
 * 📄 [_DOC_)(./doc/README.md)
   * [GraphQL](./doc/graphql.md)
   * [Node.js](./doc/nodejs.md)
+  * [Solidity](./doc/solidity.md)
 
 * 📚 [__LIBRARIES__](./lib/README.md)
 
