@@ -10,9 +10,10 @@
 
 ---
 
-* [AWS-CLI](#AWS-CLI)
-* [Hardhat](#Hardhat)
-* [Nuxt.js](#Nuxt.js)
+* [AWS-CLI](#aws-cli)
+* [Hardhat](#hardhat)
+* [Nuxt.js](#nuxt.js)
+* [Serverless](#serverless
 
 ---
 
@@ -116,3 +117,14 @@ $ npx create-nuxt-app <app-name>
 ```
 
 ---
+
+### Serverless
+
+> Serverless Framework
+
+[Documentation](https://docs.serverless.com) | [GitHub](https://github.com/serverless/serverless) | [NPM](https://npmjs.com/package/serverless)
+
+```bash
+# Initialize AWS Node.js template
+$ serverless create -t aws-nodejs
+```
