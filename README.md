@@ -14,9 +14,12 @@
 
 * 💻 [_CLI_](./CLI.md)
 
+* 📄 [_DOC_)(./doc/README.md)
+  * [GraphQL](./doc/graphql.md)
+
 * 📚 [__LIBRARIES__](./lib/README.md)
   * [Node.js](./lib/NODE.md)
 
 * 🗃  [__TEMPLATES__](./tmp/README.md)
-  * [JavaScript](./tmp/JAVASCRIPT.md)
-  * [Solidity](./tmp/SOLIDITY.md)
+  * [Configuration](./tmp/configuration.md)
+  * [Nuxt.js](./tmp/nuxtjs.md)

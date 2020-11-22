@@ -6,6 +6,10 @@
 
 ---
 
-## 📚 LIBRARIES
+## 📄 DOCS
 
-> Reference Documentation and Runtime Implementations
+> Reference Documentation and Information
+
+---
+
+* [GraphQL](./graphql.md)
