@@ -28,6 +28,7 @@ __Options__
 
 | Command | Type | Description |
 |:--------|:----:|:------------|
+| `--recursive` | boolean | Commands without this flag are single-file execution |
 | `--debug` | boolean | Turn on debug logging |
 | `--endpoint-url` | string | Override default URL with input |
 | `--no-verify-ssl` | boolean | Over AWS CLI default verification of SSL certificate |
@@ -64,7 +65,6 @@ __Command__: `aws s3 <command> [options...]
   * `?`: match any single character
   * `[sequence]`: match any character in sequence
   * `[!sequence]`: match any character not in sequence
-* flag: `--recursive` - commands are single file without this flag
 
 ```bash
 # 
