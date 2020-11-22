@@ -10,17 +10,17 @@
 
 ---
 
-* [AWS](#AWS)
+* [AWS-CLI](#AWS-CLI)
 * [Hardhat](#Hardhat)
 * [Nuxt.js](#Nuxt.js)
 
 ---
 
-### AWS
+### AWS-CLI
 
 > AWS CLI References
 
-[Documentation](https://docs.aws.amazon.com/cli/latest/reference/)
+[Documentation](https://docs.aws.amazon.com/cli/latest/reference/) | [GitHub](https://github.com/aws/aws-cli) | [Homebrew](https://formulae.brew.sh/formula/awscli)
 
 __Usage__: `$ aws [options] <command> <subcommand> [parameters]`
 
@@ -76,7 +76,7 @@ __Command__: `aws s3 <command> [options...]
 
 > Ethereum Runtime Environment Framework
 
-[Documentation](https://hardhat.org/)
+[Documentation](https://hardhat.org/) | [GitHub](https://github.com/nomiclabs/hardhat) | [NPM](https://npmjs.com/package/hardhat)
 
 __Install__: `$ npm install --save-dev hardhat`
 
@@ -108,7 +108,7 @@ $ npx hardhat run script/_.js
 
 > Nuxt.js Frontend Framework Commands
 
-[Documentation](https://nuxtjs.org/)
+[Documentation](https://nuxtjs.org/) | [GitHub](https://github.com/nuxt/nuxt.js) | [NPM](https://npmjs.com/package/nuxt)
 
 ```bash
 # Create Nuxt.js project
