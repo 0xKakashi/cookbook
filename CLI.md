@@ -10,9 +10,9 @@
 
 ---
 
-* [AWS]()
-* [Hardhat]()
-* [Nuxt.js]()
+* [AWS](#AWS)
+* [Hardhat](#Hardhat)
+* [Nuxt.js](#Nuxt.js)
 
 ---
 
@@ -30,7 +30,7 @@ __Options__
 |:--------|:----:|:------------|
 | `--debug` | boolean | Turn on debug logging |
 | `--endpoint-url` | string | Override default URL with input |
-| `--no-verify-ssl | boolean | Over AWS CLI default verification of SSL certificate |
+| `--no-verify-ssl` | boolean | Over AWS CLI default verification of SSL certificate |
 | `--no-paginate` | boolean | Disable automatic pagination |
 | `--output` | string | Output format style (`json`, `text`, `table`) |
 | `--query` | string | JMESPath query for filtering responses |
@@ -40,7 +40,7 @@ __Options__
 | `--no-sign-request` | boolean | Do not sign requests |
 | `--ca-bundle` | string | CA certificate bundle to use when verifying SSL certificates |
 | `--cli-read-timeout` | integer | Max socket read time in seconds |
-| `--cli-connect-timeout | integer | Max socket connect time in seconds |
+| `--cli-connect-timeout` | integer | Max socket connect time in seconds |
 
 __`route53domains`__
 
