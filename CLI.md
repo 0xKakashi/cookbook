@@ -54,7 +54,7 @@ $ aws route53domains check-domain-availability --domain-name <domain>
 
 __`s3`__
 
-__Command__: `aws s3 <command> [options...]
+__Command__: `aws s3 <command> [options...]`
 
 * single-file commands: `cp`, `mv`, `rm`
 * directory commands: `sync`, `mb`, `rb`, `ls`
