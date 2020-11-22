@@ -105,6 +105,38 @@ $ npx hardhat run script/_.js
 
 ---
 
+### NPM
+
+> Node Package Manager
+
+[Documentation](https://docs.npmjs.com/) | [GitHub](https://github.com/npm/npm) | [NPM](https://npmjs.com/)
+
+```bash
+# Initialize npm project
+$ npm init -y
+
+# Install dependencies
+$ npm install
+$ npm i
+
+# Install and save dependency
+$ npm install --save <package>
+$ npm i -S <package>
+
+# Install and save development dependency
+$ npm install --save-dev <package>
+$ npm i -D <package>
+
+# Upgrade package
+$ npm upgrade <package>
+
+# Run npm package script
+$ npm run <script>
+
+# List globally installed npm packages
+$ npm -g list --depth=0
+```
+
 ### Nuxt.js
 
 > Nuxt.js Frontend Framework Commands
