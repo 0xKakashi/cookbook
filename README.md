@@ -16,9 +16,9 @@
 
 * 📄 [_DOC_)(./doc/README.md)
   * [GraphQL](./doc/graphql.md)
+  * [Node.js](./doc/nodejs.md)
 
 * 📚 [__LIBRARIES__](./lib/README.md)
-  * [Node.js](./lib/NODE.md)
 
 * 🗃  [__TEMPLATES__](./tmp/README.md)
   * [Configuration](./tmp/configuration.md)
