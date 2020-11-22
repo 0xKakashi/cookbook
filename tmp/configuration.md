@@ -10,8 +10,8 @@
 
 > Configuration and Settings Templates
 
-* [`package.json`](#`package.json`)
-* [`.gitignore`](#`.gitignore`)
+* [`package.json`](#package.json)
+* [`.gitignore`](#gitignore)
 
 ---
 

@@ -9,3 +9,6 @@
 ## 📄 TEMPLATES
 
 > Language and Framework Code Templates
+
+* [Configuration](./configuration.md)
+* [Nuxt.js](./nuxtjs.md)
