@@ -15,6 +15,7 @@
 * 💻 [_CLI_](./CLI.md)
 
 * 📄 [_DOC_)(./doc/README.md)
+  * [GitHub](./doc/github.md)
   * [GraphQL](./doc/graphql.md)
   * [Node.js](./doc/nodejs.md)
   * [Solidity](./doc/solidity.md)
