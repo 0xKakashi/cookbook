@@ -22,6 +22,8 @@
 
 * 📚 [__LIBRARIES__](./lib/README.md)
 
+* 🖥 [__MACHINE__](./MACHINE.md)
+
 * 🗃  [__TEMPLATES__](./tmp/README.md)
   * [Configuration](./tmp/configuration.md)
   * [Nuxt.js](./tmp/nuxtjs.md)
