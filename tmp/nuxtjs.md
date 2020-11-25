@@ -26,7 +26,12 @@
 
 ```js
 require('dotenv').config();
-
+/**
+ * @module
+ * @name   nuxt
+ * @desc   nuxt.js application configuration source
+ * @file   nuxt.config.js
+ */
 export default {
   head: {},
   css: [],
@@ -113,6 +118,12 @@ export default {}
 __Default__
 
 ```js
+/**
+ * @module
+ * @name   myPlug
+ * @desc   resource plugin for nuxt.js context
+ * @file   plugins/myPlug.client.js
+ */
 export default (context, inject) => {
   inject('myFunc', ({ store }) => {
     return store.getters.getData
@@ -131,6 +142,7 @@ __State__
  * @module
  * @name   state
  * @desc   nuxt.js vuex store - state management
+ * @file   store/state.js
  */
 export default () => ({
   data: {}
@@ -144,6 +156,7 @@ __Actions__
  * @module
  * @name   actions
  * @desc   nuxt.js vuex store - state actions
+ * @file   store/actions.js
  */
 export default {
   initialize: async function() {}
@@ -153,6 +166,12 @@ export default {
 __Mutations__
 
 ```js
+/**
+ * @module
+ * @name   mutations
+ * @desc   nuxt.js vuex store - state mutations
+ * @file   store/mutations.js
+ */
 export default {
   ADD_DATA: (state, payload) => {
     state.data.push(payload)
@@ -163,6 +182,12 @@ export default {
 __Getters__
 
 ```js
+/**
+ * @module
+ * @name   getters
+ * @desc   nuxt.js vuex store - state getters
+ * @file   store/getters.js
+ */
 export default {
   getData: async function(state) {
     return state.data
