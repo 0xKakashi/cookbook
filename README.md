@@ -10,7 +10,7 @@
 
 > Directory Structure and Contents
 
-* ⭐⭐ [__FAVORITES__](./FAVORITES.md)
+* ⭐ [__FAVORITES__](./FAVORITES.md)
 
 * 🔖 [_BOOKMARKS_](./BOOKMARKS.md)
 
