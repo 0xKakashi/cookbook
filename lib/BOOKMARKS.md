@@ -1,4 +1,4 @@
-![0xKakashi](./banner.png)
+![0xKakashi](../banner.png)
 
 # 📔 COOKBOOK
 
