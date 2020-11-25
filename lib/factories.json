@@ -1,0 +1,32 @@
+{
+  "mainnet": [
+    {
+      "name": "UniswapV2Factory",
+      "address": "0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f"
+    }
+  ],
+  "rinkeby": [
+    {
+      "name": "UniswapV2Factory",
+      "address": "0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f"
+    }
+  ],
+  "ropsten": [
+    {
+      "name": "UniswapV2Factory",
+      "address": "0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f"
+    }
+  ],
+  "goerli": [
+    {
+      "name": "UniswapV2Factory",
+      "address": "0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f"
+    }
+  ],
+  "kovan": [
+    {
+      "name": "UniswapV2Factory",
+      "address": "0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f"
+    }
+  ]
+}
