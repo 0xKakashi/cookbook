@@ -14,6 +14,7 @@
   * [GitHub](./doc/github.md)
   * [GraphQL](./doc/graphql.md)
   * [Hardhat](./doc/hardhat.md)
+  * [Jest.js](./doc/jestjs.md)
   * [Node.js](./doc/nodejs.md)
   * [Solidity](./doc/solidity.md)
 
