@@ -10,13 +10,13 @@
 
 > Directory Structure and Contents
 
-* ⭐️⭐ [__FAVORITES__](./FAVORITES.md)
+* ⭐⭐ [__FAVORITES__](./FAVORITES.md)
 
 * 🔖 [_BOOKMARKS_](./BOOKMARKS.md)
 
 * 💻 [_CLI_](./CLI.md)
 
-* 📄 [_DOC_)(./doc/README.md)
+* 📄 [__DOC__](./doc/README.md)
   * [GitHub](./doc/github.md)
   * [GraphQL](./doc/graphql.md)
   * [Node.js](./doc/nodejs.md)
