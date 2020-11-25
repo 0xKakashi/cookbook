@@ -6,7 +6,7 @@
 
 ---
 
-## 📄 DOCS: SOLIDITY
+## 📄 DOC: SOLIDITY
 
 > Ethereum Solidity Smart Contracts Language Reference
 

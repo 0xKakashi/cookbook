@@ -6,7 +6,7 @@
 
 ---
 
-## 📄 DOCS: NODE.JS
+## 📄 DOC: NODE.JS
 
 > Node.js V8 Runtime Engine Library
 

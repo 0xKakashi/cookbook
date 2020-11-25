@@ -6,7 +6,7 @@
 
 ---
 
-## 📄 DOCS
+## 📄 DOCUMENTATION
 
 > Reference Documentation and Information
 

@@ -6,7 +6,7 @@
 
 ---
 
-## 📄 DOCS: OPEN ZEPPELIN
+## 📄 DOC: OPEN ZEPPELIN
 
 > OpenZeppelin Smart Contracts Library Standard
 

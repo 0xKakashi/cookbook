@@ -6,7 +6,7 @@
 
 ---
 
-## 📄 DOCS: GRAPHQL
+## 📄 DOC: GRAPHQL
 
 > GraphQL Database Framework
 

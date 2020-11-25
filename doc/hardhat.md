@@ -6,19 +6,10 @@
 
 ---
 
-## 📄 DOC: GITHUB
+## 📄 DOC: HARDHAT
 
-> GitHub Developer Guide
+> Hardhat Ethereum Runtime Environment
 
----
-
-* [GPG](#gpg)
-* [SSH](#ssh)
+[Hardhat](https://hardhat.org)
 
 ---
-
-### GPG
-
----
-
-### SSH
