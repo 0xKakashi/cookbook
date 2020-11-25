@@ -10,6 +10,8 @@
 
 > Directory Structure and Contents
 
+* ⭐️⭐ [__FAVORITES__](./FAVORITES.md)
+
 * 🔖 [_BOOKMARKS_](./BOOKMARKS.md)
 
 * 💻 [_CLI_](./CLI.md)
