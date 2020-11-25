@@ -8,4 +8,9 @@
 
 ## 📚 LIBRARIES
 
-> Reference Documentation and Runtime Implementations
+> Reference Documentation and Notables
+
+* [Favorites](./FAVORITES.md)
+* [BOOKMARKS](./BOOKMARKS.md)
+* [CLI](./CLI.md)
+* [MACHINE](./MACHINE.md)
