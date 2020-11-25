@@ -6,7 +6,7 @@
 
 ---
 
-## 📄 TEMPLATES
+## 🗃 TEMPLATES
 
 > Language and Framework Code Templates
 
