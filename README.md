@@ -10,7 +10,7 @@
 
 > Directory Structure and Contents
 
-* 📄 [__DOC__](./doc/README.md)
+* 📄 [__DOCUMENTATION__](./doc/README.md)
   * [GitHub](./doc/github.md)
   * [GraphQL](./doc/graphql.md)
   * [Node.js](./doc/nodejs.md)
