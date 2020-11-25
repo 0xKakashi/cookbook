@@ -18,7 +18,7 @@
   * [Solidity](./doc/solidity.md)
 
 * 📚 [__LIBRARIES__](./lib/README.md)
-  * [_FAVORITES_](./FAVORITES.md)
+  * [**_FAVORITES_**](./FAVORITES.md)
   * [_BOOKMARKS_](./BOOKMARKS.md)
   * [_CLI_](./CLI.md)
   * [_MACHINE_](./MACHINE.md)
