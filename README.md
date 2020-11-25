@@ -18,10 +18,10 @@
   * [Solidity](./doc/solidity.md)
 
 * 📚 [__LIBRARIES__](./lib/README.md)
-  * [**_FAVORITES_**](./FAVORITES.md)
-  * [_BOOKMARKS_](./BOOKMARKS.md)
-  * [_CLI_](./CLI.md)
-  * [_MACHINE_](./MACHINE.md)
+  * [**_FAVORITES_**](./lib/FAVORITES.md)
+  * [_BOOKMARKS_](./lib/BOOKMARKS.md)
+  * [_CLI_](./lib/CLI.md)
+  * [_MACHINE_](./lib/MACHINE.md)
 
 * 📑 [__REFERENCES__](./ref/README.md)
   * [Factories](./ref/factories.json)
