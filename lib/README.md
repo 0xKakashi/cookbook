@@ -10,7 +10,7 @@
 
 > Reference Documentation and Notables
 
-* [Favorites](./FAVORITES.md)
+* [__FAVORITES__](./FAVORITES.md)
 * [BOOKMARKS](./BOOKMARKS.md)
 * [CLI](./CLI.md)
 * [MACHINE](./MACHINE.md)
