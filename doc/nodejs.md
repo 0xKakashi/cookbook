@@ -26,7 +26,7 @@ $ brew install node
 > Node.js Library Documentation Reference
 
 * [CLI Options](#cli-options)
-* [Console[#console)
+* [Console](#console)
 * [Crypto](#crypto)
 * [Errors](#errors)
 * [Events](#events)
