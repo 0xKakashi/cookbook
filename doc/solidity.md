@@ -32,6 +32,92 @@
 
 ### Contracts
 
+__State Variables__
+
+State variables are variables whose values are permanently stored in contract storage.
+
+```sol
+contract SimpleStorage {
+    uint storedData; // @state
+}
+```
+
+__Functions__
+
+Functions are the executable units of code.
+Functions are defined inside a contract, but can be outside a contract as well.
+Function Calls can happen `internally` or `externally` and have different levels of visibility towards other contrats.
+
+```sol
+contract SimpleAuction {
+    function bid() public payable {
+        // @func
+    }
+}
+```
+
+__Function Modifiers__
+
+Function Modifiers can be used to amend the semantics of functions in a declarative way.
+Overloading, is having the same modifier name with different parameters, and is not possible.
+Modifiers can be overriden like Functions.
+
+```sol
+contract Purchase {
+    address public seller;
+
+    // @mod
+    modifier onlySeller() {
+        require(
+            msg.sender == seller,
+            "Only seller can call this."
+        );
+        _;
+    }
+
+    function abort() public view onlySeller {
+        // @func with @mod
+    }
+}
+```
+
+__Events__
+
+```sol
+contract SimpleAuction {
+    // @event
+    event HighestBidIncreased(address bidder, uint amount); 
+
+    function bid() public payable {
+        // @event-trigger
+        emit HighestBidIncreased(msg.sender, msg.value);
+    }
+}
+```
+
+__Struct Types__
+
+```sol
+contract Ballot {
+    // @struct
+    struct Voter {
+        uint weight;
+        bool voted;
+        address delegate;
+        uint vote;
+    }
+}
+```
+
+__Enum Types__
+
+```sol
+contract Purchase {
+    // @enum
+    enum State { Created, Locked, Inactive }
+}
+```
+
 ---
 
 ### Functions
